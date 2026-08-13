@@ -60,6 +60,24 @@ These are public-facing pillars of the Nexus. Linking them here expresses ecosys
 | [![ARCANE OS across human contexts](https://thewizardnexus.github.io/ARCANE-OS/apps/docs/assets/arcane-docs-social.png)](https://thewizardnexus.github.io/ARCANE-OS/)<br>**[ARCANE OS](https://thewizardnexus.github.io/ARCANE-OS/)** — a development-stage, AI-native operating environment for governed and accountable human–AI collaboration. | [![SpellWire, auditable communication for humans and AI emissaries](https://raw.githubusercontent.com/TheWizardNexus/TheWizardNexus/bfbfd4520bbe64e79602826fb385c8f694b6d704/assets/spellwire-readme-header.png)](https://thewizardnexus.github.io/SpellWire/)<br>**[SpellWire](https://thewizardnexus.github.io/SpellWire/)** — a private, invite-only, Git-auditable communication and decision ledger for humans and AI emissaries. |
 | [![TWiN Compass, moral direction and behavioral-health awareness](https://raw.githubusercontent.com/TheWizardNexus/TheWizardNexus/bfbfd4520bbe64e79602826fb385c8f694b6d704/assets/twin-compass-readme-header.png)](https://thewizardnexus.github.io/TWiN-Compass/)<br>**[TWiN Compass](https://thewizardnexus.github.io/TWiN-Compass/)** — a moral, ethical, culturally aware, behavioral-health-informed AI layer that keeps qualified humans responsible for professional decisions. | [![DBOPFS, a browser-native database written in files](https://thewizardnexus.github.io/DBOPFS/assets/og.png)](https://thewizardnexus.github.io/DBOPFS/)<br>**[DBOPFS](https://thewizardnexus.github.io/DBOPFS/)** — a source-available, browser-native database built on the Origin Private File System, with application data staying local unless exported. |
 
+<p align="center">
+  <a href="https://thewizardnexus.github.io/Toshokann/">
+    <img src="https://thewizardnexus.github.io/Toshokann/assets/toshokann-knowledge-hall.png" width="100%" alt="Toshokann, a luminous knowledge hall for libraries, archives, and trusted paths to information">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://thewizardnexus.github.io/Toshokann/">Toshokann</a></strong> — the extensible foundation for building libraries, archives, and trusted pathways for sharing knowledge.
+</p>
+
+## npm modules I support
+
+Public packages should be easy to find, install, inspect, and understand. These two have work from this account in their public histories.
+
+| Browser-native persistence | Zero-build testing |
+| --- | --- |
+| [![DBOPFS, browser-native persistence over OPFS](https://raw.githubusercontent.com/TheWizardNexus/DBOPFS/1b16a661ea8b60cc54b840ccda2e8a63d8a71046/docs/assets/og.png)](https://www.npmjs.com/package/dbopfs)<br>[![latest npm version for dbopfs](https://img.shields.io/npm/v/dbopfs?style=flat-square&logo=npm&label=npm%20latest)](https://www.npmjs.com/package/dbopfs)<br>**[`dbopfs`](https://www.npmjs.com/package/dbopfs)** — a source-available, browser-native database that maps tables and records to OPFS.<br><br>`npm install dbopfs`<br><br>[Source](https://github.com/TheWizardNexus/DBOPFS) · [Docs](https://thewizardnexus.github.io/DBOPFS/) · PolyForm Noncommercial 1.0.0 | [![vanilla-test, zero-build Web-standard JavaScript testing](https://raw.githubusercontent.com/RIAEvangelist/vanilla-test/4a3d8251ef2dcf9237286b6303897938b67766d8/assets/vanilla-test-header.png)](https://www.npmjs.com/package/vanilla-test)<br>[![latest npm version for vanilla-test](https://img.shields.io/npm/v/vanilla-test?style=flat-square&logo=npm&label=npm%20latest)](https://www.npmjs.com/package/vanilla-test)<br>**[`vanilla-test`](https://www.npmjs.com/package/vanilla-test)** — zero-build, Web-standard JavaScript testing for Node and browsers.<br><br>`npm install vanilla-test`<br><br>[Source](https://github.com/RIAEvangelist/vanilla-test) · [Project site](https://riaevangelist.github.io/vanilla-test/) · MIT |
+
 ## Public work attributed to this account
 
 The evidence is in the history. Beyond this profile, this account has public, inspectable work in these repositories:
